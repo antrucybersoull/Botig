@@ -2,16 +2,16 @@
 
 
 
-apt update && apt upgrade
+$ apt update && apt upgrade
 
-pkg install git 
+$ pkg install git 
 
-pkg install python
+$ pkg install python
 
-pkg install python3
+$ pkg install python3
 
-git clone https://github.com/antrucybersoull/Botig
+$ git clone https://github.com/antrucybersoull/Botig
 
-cd Botig
+$ cd Botig
 
-python3 Botig.py
+$ python3 Botig.py
