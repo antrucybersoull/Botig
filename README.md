@@ -8,7 +8,9 @@ $ pkg install git
 
 $ pkg install python
 
-$ pkg install python3
+$ pkg install python2
+
+$ pip install requests 
 
 $ git clone https://github.com/antrucybersoull/Botig
 
